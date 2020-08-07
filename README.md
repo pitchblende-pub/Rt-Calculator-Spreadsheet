@@ -1,6 +1,6 @@
 # Rt Calculator Worksheet ver1.2 2020/8/7
 
-<img src="img/sample_figure.jpg" alt="Rtグラフ表示例" width="800">
+<img src="img/sample_figure2.jpg" alt="Rtグラフ表示例" width="800">
 
 ## 更新履歴
 ver1.2 諸々修正(2020/8/7)  
